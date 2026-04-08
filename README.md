@@ -12,3 +12,9 @@
 Teste direto na main
 Teste direto na main
 Alteração via PR
+
+# Configurações do Sistema
+- Ambiente: produção
+- Porta: 8080
+- Timout: 30s
+- Max connections: 1000
